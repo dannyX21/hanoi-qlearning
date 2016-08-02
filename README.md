@@ -12,6 +12,10 @@ have much information. Solutions are improved with each training episodes, until
 Please note that this program was writtn when I was just starting with Python, I later found that the itertools library would
 have made many things much easier and in a more 'pythonic' way. I will update this program when I have a chance.
 
+I forgot to mention that a couple of weeks after I implemented this simple application, I ported it to Visual C# and used
+the Aforge.NET library to support Computer Vision, the C# application uses a webcam to detects the initial state of the board
+ and then it solves the problem using the optimal solution. I will upload it to github shortly.
+
 Thank you,
 
 Daniel.
